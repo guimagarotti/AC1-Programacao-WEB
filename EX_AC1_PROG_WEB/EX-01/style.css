@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.quadrado {
+    width: 15px;
+    height: 15px; 
+    border: 1px solid black;    
+}
+
+#selecionado {
+    background-color: black; 
+}

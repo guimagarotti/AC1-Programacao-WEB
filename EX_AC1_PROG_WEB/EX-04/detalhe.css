@@ -1,0 +1,29 @@
+#title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40px;
+}
+
+.card-header {
+    background-color: blue !important;
+    color: white !important;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container-nav {
+    max-width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
